@@ -13,7 +13,6 @@ import CreateProduct from './components/Products/CreateProduct.jsx';
 import CategoriesList from './components/Categories/CategoriesList.jsx';
 import CreateCategory from './components/Categories/CategoriesList.jsx';
 
-
 class App extends React.Component {
   render () {
     return (
